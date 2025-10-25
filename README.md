@@ -149,9 +149,9 @@
             <a href="#contact" class="cta-button">Связаться со мной</a>
         </div>
         <div class="hero-image">
-            <img src="D:\3 курс 1 сем\WEB-дизайн\img\я.jpg" alt="Ангелина - веб-разработчик">
+            <img src="я.jpg" alt="Ангелина - веб-разработчик">
             <div class="small-circle">
-                <img src="D:\3 курс 1 сем\WEB-дизайн\img\ленивец.jpg" alt="Ленивец">
+                <img src="ленивец.jpg" alt="Ленивец">
             </div>
         </div>
     </section>
